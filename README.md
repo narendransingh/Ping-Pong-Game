@@ -4,4 +4,6 @@ Traditional Ping Pong Game using Python Turtle. using reference from Chritian Th
 
 Additional update with more challenges as payer score higher. The game challenges player with increasing speed of ball, also reducing the paddle size.
 
+<img width="993" alt="Screen Shot 2020-09-11 at 2 38 18 AM" src="https://user-images.githubusercontent.com/27731443/92807556-9c5c4680-f3d8-11ea-993d-7d0e7fa28da0.png">
+
 
